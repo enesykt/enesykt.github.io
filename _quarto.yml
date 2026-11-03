@@ -23,6 +23,9 @@ website:
       - icon: envelope
         href: mailto:enessyakut@outlook.com
         aria-label: Email
+      - icon: linkedin
+        href: https://www.linkedin.com/in/enesyakutt
+        aria-label: LinkedIn
       - icon: github
         href: https://github.com/enesykt
         aria-label: GitHub
