@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 subtitle: "Enes Yakut"
 ---
 
-📧 [enessyakut@outlook.com](mailto:enessyakut@outlook.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/enesyakutt) | 💻 [GitHub](https://github.com/enesykt) | 📍 İzmir, Turkey
+📧 [enessyakut@outlook.com](mailto:enessyakut@outlook.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/enesyakutt) | 💻 [GitHub](https://github.com/enesykt)
 
 ---
 
