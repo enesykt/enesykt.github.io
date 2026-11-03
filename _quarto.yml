@@ -1,11 +1,14 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - googleb4972029d7765fcd.html
 
 website:
   title: "Enes Yakut"
   site-url: "https://enesykt.github.io"
-  description: "Physics graduate researching time-domain astrophysics, exoplanet transit photometry, and high-energy variability."
+  description: "Enes Yakut — Physics graduate researching time-domain astrophysics, exoplanet transit photometry, high-energy variability, PINNs, and quantum field theory."
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
@@ -34,3 +37,4 @@ format:
     toc: true
     html-math-method: katex
     smooth-scroll: true
+    include-in-header: seo-header.html
