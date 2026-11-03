@@ -10,6 +10,9 @@ about:
     - icon: envelope
       text: Email
       href: mailto:enessyakut@outlook.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/enesykt
     - icon: file-earmark-text
       text: CV
       href: cv.qmd

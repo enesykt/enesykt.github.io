@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Enes Yakut"
+  site-url: "https://enesykt.github.io"
   description: "Physics graduate researching time-domain astrophysics, exoplanet transit photometry, and high-energy variability."
   navbar:
     left:
@@ -20,7 +21,7 @@ website:
         href: mailto:enessyakut@outlook.com
         aria-label: Email
       - icon: github
-        href: https://github.com/
+        href: https://github.com/enesykt
         aria-label: GitHub
   page-footer:
     left: "© 2026 Enes Yakut"
