@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e3a8a" />
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="120" fill="url(#bg)" />
+  <ellipse cx="120" cy="120" rx="95" ry="38" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-opacity="0.35" transform="rotate(-25 120 120)" />
+  <circle cx="195" cy="85" r="5" fill="#38bdf8" opacity="0.85" />
+  <text x="120" y="136" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="600" fill="#f8fafc" text-anchor="middle" letter-spacing="2">EY</text>
+</svg>
+
