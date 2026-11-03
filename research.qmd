@@ -1,0 +1,100 @@
+---
+title: "Research & Projects"
+subtitle: "Astrophysics research, undergraduate thesis, and computational modeling"
+---
+
+## Astrophysics
+
+::: {.research-card}
+### Search for Quasi-Periodic Oscillations in Gamma-Ray Bursts
+::: {.research-meta}
+**Sep. 2026 – Present** | Supervisor: Prof. Ersin Göğüş *(Sabancı University)*
+:::
+
+I analyze **Fermi/GBM** light curves across different time intervals and energy bands to search for candidate quasi-periodic oscillations (QPOs) in gamma-ray bursts. 
+
+* Modeling power spectra using power-law continua and Lorentzian profiles with Python and `Stingray`.
+* Using Gaussian Process modeling to characterize stochastic background variability and test whether candidate signals remain significant after accounting for analysis choices and multiple trials.
+* Checking the energy dependence of candidate features and comparing findings with published studies.
+
+<span class="badge-tag">Fermi/GBM</span>
+<span class="badge-tag">Stingray</span>
+<span class="badge-tag">Gaussian Processes</span>
+<span class="badge-tag">High-Energy Astrophysics</span>
+:::
+
+::: {.research-card}
+### Quasi-Periodic Oscillation Analysis of V1405 Cas Using TESS Photometry
+::: {.research-meta}
+**Oct. 2025 – Present** | Supervisor: Prof. Ersin Göğüş *(Sabancı University)*
+:::
+
+I study how oscillatory signals evolve in **V1405 Cas** (a classical nova and cataclysmic variable) as the system relaxes following an outburst.
+
+* Extended previous studies by identifying and adding two new post-outburst **TESS** sectors, increasing the time baseline for tracking variability.
+* Comparing pre-outburst and post-outburst power spectra sector by sector, fitting Gaussian and Lorentzian models to candidate QPO features.
+* Estimating detection significance and upper limits during phases where signals are weak, separating real accretion-driven variability from instrumental or pipeline artifacts.
+
+<span class="badge-tag">TESS Photometry</span>
+<span class="badge-tag">Cataclysmic Variables</span>
+<span class="badge-tag">Power Spectral Analysis</span>
+:::
+
+::: {.research-card}
+### Exoplanet Light Curve Formation and Calibration with TESS Photometry
+::: {.research-meta}
+**Jan. 2024 – Present** | Supervisor: Asst. Prof. Tansu Daylan *(Washington University in St. Louis / @AstroMusers)*
+:::
+
+A long-term project focused on catalog-scale transit analysis of confirmed and candidate exoplanet targets observed by **TESS**.
+
+* Built reproducible Python pipelines to clean, detrend, normalize, and phase-fold TESS-SPOC and QLP light curves.
+* Applied Box Least Squares (BLS) periodograms to recover orbital periods, transit durations, and transit depths.
+* Systematically compared recovered parameters against **ExoFOP-TESS** and literature catalogs, diagnosing discrepancies caused by detrending artifacts, period aliases, or depth dilution.
+* Currently calculating expected timing precision limits from finite light-curve baselines as part of a manuscript in preparation.
+
+<span class="badge-tag">Exoplanets</span>
+<span class="badge-tag">TESS</span>
+<span class="badge-tag">Box Least Squares</span>
+<span class="badge-tag">Time-Series Pipelines</span>
+:::
+
+---
+
+## Condensed Matter & Quantum Systems
+
+::: {.research-card}
+### Connectivity Conditions for Nagaoka Ferromagnetism in Honeycomb Lattices *(Senior Thesis)*
+::: {.research-meta}
+**Dec. 2025 – May 2026** | Supervisors: Prof. Alev Devrim Güçlü *(İzmir Institute of Technology)* & Asst. Prof. Emir Haliki *(Ege University)*
+:::
+
+For my undergraduate thesis, I investigated when and how finite honeycomb lattice structures satisfy the connectivity requirements for Nagaoka ferromagnetism.
+
+* Built triangular and hexagonal honeycomb clusters with varying boundary conditions and zigzag/armchair edges.
+* Modeled the one-hole Hubbard limit by mapping hole motion and spin configurations onto a connected state graph.
+* Used breadth-first search (BFS) algorithms to test reachability across many-body states under nearest-neighbor hopping and analyze finite-size effects.
+
+<span class="badge-tag">Senior Thesis</span>
+<span class="badge-tag">Hubbard Model</span>
+<span class="badge-tag">Graph Algorithms</span>
+<span class="badge-tag">Computational Physics</span>
+:::
+
+::: {.research-card}
+### Graphene Quantum Dots – Tight-Binding Modeling *(Research Internship)*
+::: {.research-meta}
+**Aug. 2025 – Sep. 2025** | Supervisor: Prof. Alev Devrim Güçlü *(İzmir Institute of Technology)*
+:::
+
+During my summer internship at IZTECH, I built tight-binding models from scratch to study the electronic properties of finite graphene structures.
+
+* Started from a six-site benzene-like ring and scaled up to hexagonal and triangular graphene quantum dots with zigzag and armchair edges.
+* Computed energy spectra, density of states (DOS), and site-resolved probability densities.
+* Extended the model to include next-nearest-neighbor hopping to study symmetry breaking, mid-gap states, and edge localization.
+
+<span class="badge-tag">Tight-Binding</span>
+<span class="badge-tag">Graphene Quantum Dots</span>
+<span class="badge-tag">Electronic Structure</span>
+:::
+

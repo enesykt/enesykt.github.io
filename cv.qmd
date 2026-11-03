@@ -1,0 +1,69 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Enes Yakut"
+---
+
+📧 [enessyakut@outlook.com](mailto:enessyakut@outlook.com) | 📍 İzmir, Turkey
+
+---
+
+## Education
+
+**Bachelor of Science in Physics** *(Sep. 2021 – June 2026)*  
+Ege University, İzmir, Turkey  
+* **CGPA:** 3.24 / 4.00
+* **Senior Thesis:** *Connectivity Conditions for Nagaoka Ferromagnetism in Honeycomb Lattices*
+
+---
+
+## Research Experience
+
+**Search for Quasi-Periodic Oscillations in Gamma-Ray Bursts** *(Sep. 2026 – Present)*  
+*Supervisor: Prof. Ersin Göğüş (Sabancı University) — Remote*
+
+* Analyzing Fermi/GBM light curves across different time intervals and energy bands using Python and `Stingray`.
+* Modeling power spectra with power-law continua and Lorentzian profiles to characterize candidate QPO features.
+* Applying Gaussian Process modeling to characterize stochastic variability and test candidate QPO signals.
+* Investigating the energy dependence of candidate signals and comparing results with published studies.
+
+**Quasi-Periodic Oscillation Analysis of V1405 Cas Using TESS Photometry** *(Oct. 2025 – Present)*  
+*Supervisor: Prof. Ersin Göğüş (Sabancı University) — Remote*
+
+* Studying quasi-periodic oscillations in V1405 Cas, a dwarf nova cataclysmic variable, using TESS photometry.
+* Identified two additional post-outburst TESS sectors, extending the temporal baseline for tracking variability across pre-outburst and post-outburst phases.
+* Fitting Gaussian and Lorentzian models to frequency–power spectra and estimating detection significance and upper limits.
+
+**Connectivity Conditions for Nagaoka Ferromagnetism in Honeycomb Lattices** *(Dec. 2025 – May 2026)*  
+*Supervisors: Prof. Alev Devrim Güçlü (İzmir Institute of Technology) & Asst. Prof. Emir Haliki (Ege University)*
+
+* Conducted a theoretical and computational study of the connectivity condition in Nagaoka ferromagnetism for finite honeycomb lattices.
+* Constructed triangular and hexagonal honeycomb clusters with zigzag and armchair edge terminations.
+* Modeled the one-hole Hubbard limit as a connected state graph and applied breadth-first search (BFS) algorithms to evaluate state reachability under nearest-neighbor hopping.
+
+**Exoplanet Light Curve Formation and Calibration with TESS Photometry** *(Jan. 2024 – Present)*  
+*Supervisor: Asst. Prof. Tansu Daylan (Washington University in St. Louis) — Remote (@AstroMusers)*
+
+* Processing TESS-SPOC and QLP light curves in Python for data cleaning, detrending, normalization, and transit extraction.
+* Running Box Least Squares (BLS) periodogram analyses to recover orbital periods, transit durations, and transit depths.
+* Validating recovered parameters against ExoFOP-TESS and literature values, identifying discrepancies caused by noise, detrending choices, and period aliases.
+* Calculating expected timing precision from finite light-curve baselines for an upcoming publication.
+
+---
+
+## Internships
+
+**Undergraduate Research Intern** *(Aug. 2025 – Sep. 2025)*  
+*İzmir Institute of Technology (IZTECH)*
+
+* **Topic:** Graphene Quantum Dots – Tight-Binding
+* Built and solved tight-binding models starting from a six-site ring up to finite hexagonal and triangular flakes with zigzag and armchair edges.
+* Computed energy spectra, site-resolved densities, and density of states (DOS), extending the model to next-nearest-neighbor coupling to study symmetry breaking and edge states.
+
+---
+
+## Technical Skills
+
+* **Programming & Data Analysis:** Python (`NumPy`, `SciPy`, `Matplotlib`, `Astropy`, `Lightkurve`, `Stingray`), Git, LaTeX
+* **Methods:** Photometric time-series analysis, Box Least Squares (BLS), power spectral modeling, Gaussian Processes, tight-binding simulations, graph traversal algorithms (BFS)
+* **Observational Data:** TESS (SPOC, QLP), Fermi/GBM, ExoFOP
+

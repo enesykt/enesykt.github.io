@@ -1,0 +1,29 @@
+---
+title: "Modeling Power Spectra in QPO Searches"
+description: "A quick summary of power-law continua and Lorentzian profiles used when searching for quasi-periodic oscillations in light curves."
+author: "Enes Yakut"
+date: "2026-11-04"
+categories: [Astrophysics, Time-Series, Notes]
+---
+
+When searching for quasi-periodic oscillations (QPOs) in X-ray or optical light curves, we rarely look for a strictly sinusoidal peak on top of white noise. Instead, accretion-driven systems and gamma-ray bursts typically show broadband stochastic variability ("red noise") that must be modeled alongside any candidate signal.
+
+### Continuum + Lorentzian Model
+
+A common approach is to model the power spectral density $P(\nu)$ as a power-law continuum plus a Lorentzian profile for the candidate QPO feature:
+
+$$
+P(\nu) = A \nu^{-\alpha} + C + \frac{R^2 \, \frac{\Delta}{\pi}}{\Delta^2 + (\nu - \nu_0)^2}
+$$
+
+where:
+
+* $A \nu^{-\alpha}$ captures the red-noise power-law continuum with slope $\alpha$,
+* $C$ is the white-noise (Poisson) level at high frequencies,
+* $\nu_0$ is the centroid frequency of the candidate oscillation,
+* $\Delta$ is the half-width at half-maximum (HWHM), related to the quality factor by $Q = \frac{\nu_0}{2\Delta}$.
+
+### Why Detrending and Continuum Choices Matter
+
+In practice, whether a peak looks statistically significant depends strongly on how the underlying continuum is parameterized. Testing alternative background models—and accounting for the number of frequencies and time/energy intervals searched—is essential before claiming a physical oscillation.
+

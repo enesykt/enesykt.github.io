@@ -1,0 +1,13 @@
+---
+title: "Physics Notes & Posts"
+subtitle: "Lecture notes, short write-ups, and code snippets on astrophysics and physics"
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+---
+
