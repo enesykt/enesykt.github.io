@@ -3,9 +3,9 @@ title: "Enes Yakut"
 subtitle: "Physics Graduate | Observational & Computational Astrophysics"
 about:
   template: trestles
-  image: profile-placeholder.svg
+  image: enesyakut-profile.jpg
   image-shape: round
-  image-width: 11em
+  image-width: 12em
   links:
     - icon: envelope
       text: Email
