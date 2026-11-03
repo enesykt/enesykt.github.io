@@ -24,11 +24,11 @@ toc: false
 
 ## About Me
 
-Hi! I am a physics graduate from **Ege University** (2026), preparing to start my M.S. studies in Physics. My work focuses on **observational and computational astrophysics**, particularly time-domain variability, high-energy phenomena, and photometric data analysis.
+Hi! I am a physics graduate from **Ege University** (2026), preparing to start my M.S. studies in Physics. My primary work focuses on **observational and computational astrophysics**, particularly time-domain variability, high-energy phenomena, and photometric data analysis.
 
 Over the past two years, I have worked on extracting and validating signals from noisy astronomical time-series data. With **Dr. Tansu Daylan** (Washington University in St. Louis), I analyze TESS light curves to refine exoplanet transit parameters across catalog-scale samples. In collaboration with **Prof. Ersin Göğüş** (Sabancı University), I study quasi-periodic oscillations (QPOs) in accretion-driven systems like the classical nova V1405 Cas using TESS photometry, as well as searching for QPO signatures in gamma-ray bursts with Fermi/GBM data.
 
-Alongside astrophysics, I completed my undergraduate thesis in computational condensed matter physics with **Prof. Alev Devrim Güçlü** (İzmir Institute of Technology) and **Dr. Emir Haliki** (Ege University), where I modeled Nagaoka ferromagnetism and graphene quantum dots from first principles.
+Alongside astrophysics, I completed my undergraduate thesis in computational condensed matter physics with **Prof. Alev Devrim Güçlü** (İzmir Institute of Technology) and **Dr. Emir Haliki** (Ege University), modeling Nagaoka ferromagnetism and graphene quantum dots from first principles. Earlier during my undergraduate studies, I also spent about a year and a half working with **Physics-Informed Neural Networks (PINNs)** to study the **Casimir effect in curved spacetime**, and I continue to have a strong interest in **Quantum Field Theory (QFT)**, especially its mathematical foundations.
 
 ---
 
@@ -36,7 +36,10 @@ Alongside astrophysics, I completed my undergraduate thesis in computational con
 
 * **Time-Domain & High-Energy Astrophysics:** Quasi-periodic oscillations (QPOs), gamma-ray bursts (GRBs), cataclysmic variables, and accretion-driven variability
 * **Exoplanet Photometry:** Transit light curve modeling, detrending pipelines, and catalog-scale parameter validation (TESS)
-* **Scientific Computing:** Time-series analysis, power spectral modeling, Gaussian Processes, and numerical simulations in Python
+* **Quantum Field Theory & Mathematical Physics:** Mathematical structure of QFT, quantum effects in curved spacetime, and the Casimir effect
+* **Scientific Computing & Machine Learning in Physics:** Physics-Informed Neural Networks (PINNs), time-series analysis, power spectral modeling, Gaussian Processes, and numerical simulations
+
+💬 **Open to Discussion:** Whether you have questions, want to exchange ideas, or just want to chat about any of the topics above—from TESS light curves and QPOs to tight-binding models, PINNs, or the mathematical side of QFT—feel free to reach out anytime at [enessyakut@outlook.com](mailto:enessyakut@outlook.com).
 
 ---
 

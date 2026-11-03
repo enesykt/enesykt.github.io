@@ -3,6 +3,8 @@ title: "Research & Projects"
 subtitle: "Astrophysics research, undergraduate thesis, and computational modeling"
 ---
 
+> 💬 *I am always happy to talk about any of the projects below, as well as broader topics like Quantum Field Theory (especially its mathematical foundations) and Physics-Informed Neural Networks. If you have questions or want to discuss ideas, feel free to email me at [enessyakut@outlook.com](mailto:enessyakut@outlook.com).*
+
 ## Astrophysics
 
 ::: {.research-card}
@@ -61,7 +63,7 @@ A long-term project focused on catalog-scale transit analysis of confirmed and c
 
 ---
 
-## Condensed Matter & Quantum Systems
+## Condensed Matter, Quantum Systems & Field Theory
 
 ::: {.research-card}
 ### Connectivity Conditions for Nagaoka Ferromagnetism in Honeycomb Lattices *(Senior Thesis)*
@@ -98,3 +100,16 @@ During my summer internship at IZTECH, I built tight-binding models from scratch
 <span class="badge-tag">Electronic Structure</span>
 :::
 
+::: {.research-card}
+### Physics-Informed Neural Networks (PINNs) & Casimir Effect in Curved Spacetime
+::: {.research-meta}
+**Undergraduate Research (~1.5 Years)** | Ege University
+:::
+
+During my undergraduate studies, I spent roughly a year and a half working with **Physics-Informed Neural Networks (PINNs)** and exploring the **Casimir effect in curved spacetime**. This work also sparked my ongoing interest in **Quantum Field Theory (QFT)**, particularly its mathematical foundations and geometric aspects.
+
+<span class="badge-tag">PINNs</span>
+<span class="badge-tag">Casimir Effect</span>
+<span class="badge-tag">Curved Spacetime</span>
+<span class="badge-tag">Quantum Field Theory</span>
+:::
