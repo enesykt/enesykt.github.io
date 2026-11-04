@@ -1,6 +1,6 @@
 ---
 title: "Enes Yakut"
-subtitle: "Physics Graduate | Observational & Computational Astrophysics"
+subtitle: "Physics Graduate | Astrophysics & Computational Physics"
 about:
   template: trestles
   image: enesyakut-profile.jpg
@@ -28,7 +28,7 @@ page-layout: full
 
 ## About Me
 
-Hi! I am a physics graduate from **Ege University** (2026), preparing to start my M.S. studies in Physics. My primary work focuses on **observational and computational astrophysics**, particularly time-domain variability, high-energy phenomena, and photometric data analysis.
+Hi! I am a physics graduate from **Ege University** (2026), preparing to start my M.S. studies in Physics. My primary work focuses on **time-domain astrophysics and computational physics**, particularly high-energy variability, astrophysical data analysis, and numerical modeling.
 
 Over the past two years, I have worked on extracting and validating signals from noisy astronomical time-series data. With **Dr. Tansu Daylan** (Washington University in St. Louis), I analyze TESS light curves to refine exoplanet transit parameters across catalog-scale samples. In collaboration with **Prof. Ersin Göğüş** (Sabancı University), I study quasi-periodic oscillations (QPOs) in accretion-driven systems like the classical nova V1405 Cas using TESS photometry, as well as searching for QPO signatures in gamma-ray bursts with Fermi/GBM data.
 

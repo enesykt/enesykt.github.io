@@ -65,5 +65,5 @@ Ege University, İzmir, Turkey
 
 * **Programming & Data Analysis:** Python (`NumPy`, `SciPy`, `Matplotlib`, `Astropy`, `Lightkurve`, `Stingray`), Git, LaTeX
 * **Methods:** Photometric time-series analysis, Box Least Squares (BLS), power spectral modeling, Gaussian Processes, Physics-Informed Neural Networks (PINNs), tight-binding simulations, graph traversal algorithms (BFS)
-* **Observational Data:** TESS (SPOC, QLP), Fermi/GBM, ExoFOP
+* **Astrophysical Datasets:** TESS (SPOC, QLP), Fermi/GBM, ExoFOP
 
