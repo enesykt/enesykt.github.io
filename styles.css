@@ -21,6 +21,31 @@ h1, h2, h3, h4 {
   letter-spacing: -0.01em;
 }
 
+/* Wider, better-proportioned Home (Trestles) layout on desktop */
+@media (min-width: 992px) {
+  div.quarto-about-trestles {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  div.quarto-about-trestles .about-entity {
+    flex: 0 0 27% !important;
+    max-width: 300px !important;
+    padding-right: 2rem !important;
+    text-align: center;
+  }
+
+  div.quarto-about-trestles .about-contents {
+    flex: 1 1 73% !important;
+    padding-left: 2.5rem !important;
+  }
+}
+
 .research-card {
   border: 1px solid #e5e9f0;
   border-radius: 8px;
@@ -59,4 +84,3 @@ h1, h2, h3, h4 {
   background-color: #f1f5f9;
   color: #334155;
 }
-

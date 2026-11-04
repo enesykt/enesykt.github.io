@@ -23,6 +23,7 @@ about:
       text: Research
       href: research.qmd
 toc: false
+page-layout: full
 ---
 
 ## About Me
