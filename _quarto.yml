@@ -7,7 +7,7 @@ project:
 website:
   title: "Enes Yakut"
   site-url: "https://enesykt.github.io"
-  description: "Enes Yakut — Physics graduate researching time-domain astrophysics, exoplanet transit photometry, high-energy variability, PINNs, and quantum field theory."
+  description: "Enes Yakut - Physics graduate researching time-domain astrophysics, exoplanet transit photometry, high-energy variability, PINNs, and quantum field theory."
   open-graph: true
   navbar:
     left:

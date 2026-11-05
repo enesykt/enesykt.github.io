@@ -10,7 +10,7 @@ subtitle: "Astrophysics research, undergraduate thesis, and computational modeli
 ::: {.research-card}
 ### Search for Quasi-Periodic Oscillations in Gamma-Ray Bursts
 ::: {.research-meta}
-**Sep. 2026 – Present** | Supervisor: Prof. Ersin Göğüş *(Sabancı University)*
+**Sep. 2026 - Present** | Supervisor: Prof. Ersin Göğüş *(Sabancı University)*
 :::
 
 I analyze **Fermi/GBM** light curves across different time intervals and energy bands to search for candidate quasi-periodic oscillations (QPOs) in gamma-ray bursts. 
@@ -28,7 +28,7 @@ I analyze **Fermi/GBM** light curves across different time intervals and energy 
 ::: {.research-card}
 ### Quasi-Periodic Oscillation Analysis of V1405 Cas Using TESS Photometry
 ::: {.research-meta}
-**Oct. 2025 – Present** | Supervisor: Prof. Ersin Göğüş *(Sabancı University)*
+**Oct. 2025 - Present** | Supervisor: Prof. Ersin Göğüş *(Sabancı University)*
 :::
 
 I study how oscillatory signals evolve in **V1405 Cas** (a classical nova and cataclysmic variable) as the system relaxes following an outburst.
@@ -45,7 +45,7 @@ I study how oscillatory signals evolve in **V1405 Cas** (a classical nova and ca
 ::: {.research-card}
 ### Exoplanet Light Curve Formation and Calibration with TESS Photometry
 ::: {.research-meta}
-**Jan. 2024 – Present** | Supervisor: Asst. Prof. Tansu Daylan *(Washington University in St. Louis / @AstroMusers)*
+**Jan. 2024 - Present** | Supervisor: Asst. Prof. Tansu Daylan *(Washington University in St. Louis / @AstroMusers)*
 :::
 
 A long-term project focused on catalog-scale transit analysis of confirmed and candidate exoplanet targets observed by **TESS**.
@@ -68,7 +68,7 @@ A long-term project focused on catalog-scale transit analysis of confirmed and c
 ::: {.research-card}
 ### Connectivity Conditions for Nagaoka Ferromagnetism in Honeycomb Lattices *(Senior Thesis)*
 ::: {.research-meta}
-**Dec. 2025 – May 2026** | Supervisors: Prof. Alev Devrim Güçlü *(İzmir Institute of Technology)* & Asst. Prof. Emir Haliki *(Ege University)*
+**Dec. 2025 - May 2026** | Supervisors: Prof. Alev Devrim Güçlü *(İzmir Institute of Technology)* & Asst. Prof. Emir Haliki *(Ege University)*
 :::
 
 For my undergraduate thesis, I investigated when and how finite honeycomb lattice structures satisfy the connectivity requirements for Nagaoka ferromagnetism.
@@ -84,9 +84,9 @@ For my undergraduate thesis, I investigated when and how finite honeycomb lattic
 :::
 
 ::: {.research-card}
-### Graphene Quantum Dots – Tight-Binding Modeling *(Research Internship)*
+### Graphene Quantum Dots - Tight-Binding Modeling *(Research Internship)*
 ::: {.research-meta}
-**Aug. 2025 – Sep. 2025** | Supervisor: Prof. Alev Devrim Güçlü *(İzmir Institute of Technology)*
+**Aug. 2025 - Sep. 2025** | Supervisor: Prof. Alev Devrim Güçlü *(İzmir Institute of Technology)*
 :::
 
 During my summer internship at IZTECH, I built tight-binding models from scratch to study the electronic properties of finite graphene structures.

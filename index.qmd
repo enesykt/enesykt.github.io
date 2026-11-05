@@ -43,11 +43,11 @@ Alongside astrophysics, I completed my undergraduate thesis in computational con
 * **Quantum Field Theory & Mathematical Physics:** Mathematical structure of QFT, quantum effects in curved spacetime, and the Casimir effect
 * **Scientific Computing & Machine Learning in Physics:** Physics-Informed Neural Networks (PINNs), time-series analysis, power spectral modeling, Gaussian Processes, and numerical simulations
 
-💬 **Open to Discussion:** Whether you have questions, want to exchange ideas, or just want to chat about any of the topics above—from TESS light curves and QPOs to tight-binding models, PINNs, or the mathematical side of QFT—feel free to reach out anytime at [enessyakut@outlook.com](mailto:enessyakut@outlook.com).
+💬 **Open to Discussion:** Whether you have questions, want to exchange ideas, or just want to chat about any of the topics above - from TESS light curves and QPOs to tight-binding models, PINNs, or the mathematical side of QFT - feel free to reach out anytime at [enessyakut@outlook.com](mailto:enessyakut@outlook.com).
 
 ---
 
 ### Education
 
-* **B.S. in Physics** — Ege University, İzmir, Turkey *(2021 – 2026)*  
+* **B.S. in Physics** - Ege University, İzmir, Turkey *(2021 - 2026)*  
   CGPA: 3.24 / 4.00

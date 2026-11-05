@@ -25,5 +25,5 @@ where:
 
 ### Why Detrending and Continuum Choices Matter
 
-In practice, whether a peak looks statistically significant depends strongly on how the underlying continuum is parameterized. Testing alternative background models—and accounting for the number of frequencies and time/energy intervals searched—is essential before claiming a physical oscillation.
+In practice, whether a peak looks statistically significant depends strongly on how the underlying continuum is parameterized. Testing alternative background models - and accounting for the number of frequencies and time/energy intervals searched - is essential before claiming a physical oscillation.
 
